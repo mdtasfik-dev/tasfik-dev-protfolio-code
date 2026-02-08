@@ -13,3 +13,9 @@ git push -u origin main
 git remote add origin https://github.com/mdtasfik-dev/tasfik-dev-protfolio-code.git
 git branch -M main
 git push -u origin main
+
+
+#
+1.git add .
+2.git commit -m ""
+3.git push
